@@ -17,3 +17,4 @@ Grant transaction variance dashboard.
 Dashboard: https://grantledger.vokrix.co
 Vercel: grantledger
 Railway: grantledger
+Cloudflare: grantledger.vokrix.co
