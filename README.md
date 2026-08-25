@@ -18,3 +18,5 @@ Dashboard: https://grantledger.vokrix.co
 Vercel: grantledger
 Railway: grantledger
 Cloudflare: grantledger.vokrix.co
+
+Landing: https://vokrix.co/grantledger
