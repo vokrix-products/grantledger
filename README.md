@@ -13,3 +13,6 @@ Grant transaction variance dashboard.
 - `backend/` — copied processing files used by the poller
 - `poller.py` — job polling loop (runs on Railway)
 - `processor.py` — file extraction and record generation
+
+Dashboard: https://grantledger.vokrix.co
+Vercel: grantledger
